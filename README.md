@@ -1,6 +1,6 @@
 # Beamweave downloads
 
-Installers for Beamweave, a projection mapping, LED pixel mapping and NDI tool.
+Installers for Beamweave, a projection mapping, LED pixel mapping and [NDI®](https://ndi.video) tool.
 
 Get the newest version from the [releases page](https://github.com/Cheter0410/beamweave-releases/releases/latest):
 
@@ -9,4 +9,6 @@ Get the newest version from the [releases page](https://github.com/Cheter0410/be
 
 Once installed, Beamweave offers new versions itself with an update button in the top bar.
 
-Video playback uses the bundled FFmpeg programs. NDI needs the free NDI Tools from ndi.video.
+Video playback uses the bundled FFmpeg programs. From version 0.5.0 the NDI runtime is included as well, so there is nothing else to install.
+
+NDI® is a registered trademark of Vizrt NDI AB. More about NDI: [ndi.video](https://ndi.video)
